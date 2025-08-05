@@ -100,12 +100,5 @@ I really need your help in making this better. My goal is to make it super easy 
 If you choose to use this project, please make internet accessible to your community. Even if you can only offer 1Mbps, do it - but make sure EVERYONE can afford it. Why? Because internet access literally turned my life around. I want to give others the same opportunity.
 
 
-## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
